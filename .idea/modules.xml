@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaDeveloper.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaDeveloper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/JavaDeveloper.Simple_Chat_Bot_with_Java-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/JavaDeveloper.Simple_Chat_Bot_with_Java-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/JavaDeveloper.Simple_Chat_Bot_with_Java-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/JavaDeveloper.Simple_Chat_Bot_with_Java-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/JavaDeveloper.Simple_Chat_Bot_with_Java-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chat Bot with Java/task/JavaDeveloper.Simple_Chat_Bot_with_Java-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JavaDeveloper.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JavaDeveloper.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JavaDeveloper.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JavaDeveloper.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JavaDeveloper.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JavaDeveloper.util.test.iml" />
+    </modules>
+  </component>
+</project>
