@@ -1,17 +1,19 @@
-# course config files
-*.yaml
-
-# gradle
+# ===== Gradle =====
 .gradle/
-build
+build/
+**/build/
+**/out/
 
+# ===== Java =====
+*.class
 
-# idea config
-.idea
+# ===== IntelliJ IDEA =====
+.idea/
+*.iml
 
-# old stages
-/Simple Chat Bot with Java/*
-!/Simple Chat Bot with Java/task/
-/Simple Chat Bot with Java/task/*
-!/Simple Chat Bot with Java/task/src
-!/Simple Chat Bot with Java/task/test
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Temporary =====
+~*
